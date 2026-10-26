@@ -1,12 +1,8 @@
 # OneUI HomeUP Port
 
-OneUI HomeUP Port (RU / EN / ES)
-
-# OneUI HomeUP Port
-
 [Русский](#русский) · [English](#english) · [Español](#español)
 
-**[⬇ OneUI-HomeUP-Port.apk](https://github.com/Leshugan/OneUI-HomeUP-Port/raw/main/OneUI-HomeUP-Port.apk)**
+**[⬇ OneUI-HomeUP-Port.apk](https://github.com/Leshugan/OneUi-HomeUP-Port/raw/main/OneUI-HomeUP-Port.apk)**
 
 ## Русский
 
