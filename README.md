@@ -12,8 +12,6 @@ OneUI HomeUP Port (RU / EN / ES)
 
 Экран недавних приложений из Samsung One UI (Home Up) для OnePlus, OPPO, realme и других Android-смартфонов. Пять видов как в Home Up, живые снимки окон, плавные анимации и размытый фон. Открывается обычной кнопкой «Недавние».
 
-<a href="screen_main.png"><img src="screen_main.png" width="260"></a> <a href="screen_settings.png"><img src="screen_settings.png" width="260"></a>
-
 - Виды: список, сетка, вертикальный список, узкий список, наклонная стопка
 - Полоска значков под карточками для быстрого переключения
 - «Не закрывать»: на ColorOS/OxygenOS такие приложения уходят в раздел «в фоне»
@@ -28,8 +26,6 @@ OneUI HomeUP Port (RU / EN / ES)
 
 The Samsung One UI (Home Up) recents screen for OnePlus, OPPO, realme and other Android phones. Five Home Up layouts, live window previews, smooth animations and a blurred background. Opens with the regular Recents button.
 
-<a href="screen_main.png"><img src="screen_main.png" width="260"></a> <a href="screen_settings.png"><img src="screen_settings.png" width="260"></a>
-
 - Layouts: list, grid, vertical list, slim list, tilt stack
 - App icon strip under the cards for quick switching
 - "Keep open": on ColorOS/OxygenOS these apps move to "In background"
@@ -43,8 +39,6 @@ The Samsung One UI (Home Up) recents screen for OnePlus, OPPO, realme and other 
 ## Español
 
 La pantalla de apps recientes de Samsung One UI (Home Up) para OnePlus, OPPO, realme y otros teléfonos Android. Cinco vistas como en Home Up, capturas en vivo de las ventanas, animaciones fluidas y fondo desenfocado. Se abre con el botón normal de Recientes.
-
-<a href="screen_main.png"><img src="screen_main.png" width="260"></a> <a href="screen_settings.png"><img src="screen_settings.png" width="260"></a>
 
 - Vistas: lista, cuadrícula, lista vertical, lista estrecha, pila inclinada
 - Barra de iconos bajo las tarjetas para cambiar rápido
