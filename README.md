@@ -1,38 +1,75 @@
 # OneUI HomeUP Port
 
-🇬🇧 English · 🇷🇺 Русский · 🇺🇦 Українська
+OneUI HomeUP Port (RU / EN / ES)
 
-## 🇬🇧 English
-The Samsung One UI (Home Up) recents screen for OnePlus, OPPO, realme and other Android phones.
-- 5 layouts like Home Up: list, grid, vertical list, slim list, tilt stack
-- Live window previews (via Shizuku), smooth animations, blurred background
-- App icon strip under the cards for fast switching
-- "Keep open" lock; on ColorOS/OxygenOS locked apps move to "In background"
-- Mini mode, circular list, app labels, round icons
-- Opens with the system Recents button, double tap — previous app
+# OneUI HomeUP Port
 
-Install: install OneUI-HomeUP-Port.apk → enable the "Недавние One UI" service in Accessibility → for previews start Shizuku and allow access. Android 14+, 3-button navigation.
+[Русский](#русский) · [English](#english) · [Español](#español)
 
-## 🇷🇺 Русский
-Экран недавних приложений из Samsung One UI (Home Up) для OnePlus, OPPO, realme и других Android.
-- 5 видов как в Home Up: список, сетка, вертикальный список, узкий список, наклонная стопка
-- Живые снимки окон (через Shizuku), плавные анимации, размытый фон
+**[⬇ OneUI-HomeUP-Port.apk](https://github.com/Leshugan/OneUI-HomeUP-Port/raw/main/OneUI-HomeUP-Port.apk)**
+
+## Русский
+
+Экран недавних приложений из Samsung One UI (Home Up) для OnePlus, OPPO, realme и других Android-смартфонов. Пять видов как в Home Up, живые снимки окон, плавные анимации и размытый фон. Открывается обычной кнопкой «Недавние».
+
+<a href="screen_main.png"><img src="screen_main.png" width="260"></a> <a href="screen_settings.png"><img src="screen_settings.png" width="260"></a>
+
+- Виды: список, сетка, вертикальный список, узкий список, наклонная стопка
 - Полоска значков под карточками для быстрого переключения
-- Замок «Не закрывать»; на ColorOS/OxygenOS закреплённые приложения уходят в «в фоне»
+- «Не закрывать»: на ColorOS/OxygenOS такие приложения уходят в раздел «в фоне»
 - Мини-режим, круговой список, названия и круглые значки приложений
-- Открывается системной кнопкой «Недавние», двойное нажатие — прошлое приложение
+- Двойное нажатие «Недавних» — прошлое приложение
 
-Установка: поставьте OneUI-HomeUP-Port.apk → включите службу «Недавние One UI» в Спецвозможностях → для снимков окон запустите Shizuku и выдайте доступ. Android 14+, навигация тремя кнопками.
+**Установка:** поставьте APK → включите «Недавние One UI» в Спецвозможностях → для снимков окон запустите [Shizuku](https://github.com/RikkaApps/Shizuku). Android 14+, навигация тремя кнопками.
 
-## 🇺🇦 Українська
-Екран нещодавніх застосунків із Samsung One UI (Home Up) для OnePlus, OPPO, realme та інших Android.
-- 5 видів як у Home Up: список, сітка, вертикальний список, вузький список, нахилена стопка
-- Живі знімки вікон (через Shizuku), плавні анімації, розмитий фон
-- Смужка значків під картками для швидкого перемикання
-- Замок «Не закривати»; на ColorOS/OxygenOS закріплені застосунки йдуть у «у фоні»
-- Мінірежим, круговий список, назви та круглі значки застосунків
-- Відкривається системною кнопкою «Нещодавні», подвійне натискання — попередній застосунок
+**Лицензия:** бесплатно для личного использования.
 
-Встановлення: встановіть OneUI-HomeUP-Port.apk → увімкніть службу «Недавние One UI» у Спеціальних можливостях → для знімків вікон запустіть Shizuku і надайте доступ. Android 14+, навігація трьома кнопками.
+## English
 
-Telegram: https://t.me/Windrux
+The Samsung One UI (Home Up) recents screen for OnePlus, OPPO, realme and other Android phones. Five Home Up layouts, live window previews, smooth animations and a blurred background. Opens with the regular Recents button.
+
+<a href="screen_main.png"><img src="screen_main.png" width="260"></a> <a href="screen_settings.png"><img src="screen_settings.png" width="260"></a>
+
+- Layouts: list, grid, vertical list, slim list, tilt stack
+- App icon strip under the cards for quick switching
+- "Keep open": on ColorOS/OxygenOS these apps move to "In background"
+- Mini mode, circular list, app labels and round icons
+- Double tap Recents — previous app
+
+**Install:** install the APK → enable "Недавние One UI" in Accessibility → for previews start [Shizuku](https://github.com/RikkaApps/Shizuku). Android 14+, 3-button navigation.
+
+**License:** free for personal use.
+
+## Español
+
+La pantalla de apps recientes de Samsung One UI (Home Up) para OnePlus, OPPO, realme y otros teléfonos Android. Cinco vistas como en Home Up, capturas en vivo de las ventanas, animaciones fluidas y fondo desenfocado. Se abre con el botón normal de Recientes.
+
+<a href="screen_main.png"><img src="screen_main.png" width="260"></a> <a href="screen_settings.png"><img src="screen_settings.png" width="260"></a>
+
+- Vistas: lista, cuadrícula, lista vertical, lista estrecha, pila inclinada
+- Barra de iconos bajo las tarjetas para cambiar rápido
+- «No cerrar»: en ColorOS/OxygenOS estas apps pasan a «En segundo plano»
+- Modo mini, lista circular, nombres e iconos redondos
+- Doble toque en Recientes — app anterior
+
+**Instalación:** instala el APK → activa «Недавние One UI» en Accesibilidad → para las capturas inicia [Shizuku](https://github.com/RikkaApps/Shizuku). Android 14+, navegación con 3 botones.
+
+**Licencia:** gratis para uso personal.
+
+---
+
+**Сборка · Build · Compilación**
+
+JDK 17 + Android SDK (build-tools 36, platform 36), Windows PowerShell:
+
+    .\build.ps1
+
+Исходники / Source / Código fuente — OneUI-HomeUP-Port_src.zip
+
+**Сторонние компоненты · Third-party · Componentes de terceros**
+
+- [Shizuku API](https://github.com/RikkaApps/Shizuku-API) — Apache-2.0
+- [HiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass) — Apache-2.0
+- Вид экрана недавних · Recents design · Diseño de recientes — Samsung One UI Home / Home Up
+
+Telegram: [Windrux](https://t.me/Windrux)
